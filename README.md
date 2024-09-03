@@ -23,6 +23,7 @@
 3. **Incluir archivos DataTables:**
    Asegúrate de incluir los archivos JavaScript y CSS de DataTables en tu HTML.
 ## Uso
+
 1. **Configurar una tabla:**
    Define las columnas de la tabla y configura la tabla usando la función `setupTable`.
    ```bash
@@ -39,6 +40,7 @@
    ```bash
    const url = '/proyectos/MiProyecto/controller.php';
 ## Contribuciones
+
 Las contribuciones son bienvenidas. Si deseas contribuir a este proyecto, sigue estos pasos:
 1. **Haz un fork del repositorio.**
 2. **Crea una nueva rama:**
